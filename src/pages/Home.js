@@ -5,19 +5,6 @@ import People from '../assets/images/starwars-people1.jpg';
 import BoxLeft from '../assets/images/starwars-box1.jpg';
 import BoxRight from '../assets/images/starwars-box2.jpg';
 
-{/* <div className="row"> 
-	<div className="col-md-6 text-center">
-		<img src={DarkVaider} alt="Dark Vaider" />
-	</div>
-	<div className="col-md-6">
-		<h2 className="mt-4">Redux Example</h2>
-		<p>
-			Small example about Redux with React using&nbsp;
-			as example.
-		</p>
-	</div>
-</div> */}
-
 function Home() {
     return(
 			<>

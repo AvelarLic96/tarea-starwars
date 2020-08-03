@@ -14,7 +14,7 @@ export default () => {
           <Link to="/people" style={{color: 'white'}}>People</Link>
         </li>
         <li className="nav-item">
-          <Link to="/pokemons" style={{color: 'white'}}>Starship</Link>
+          <Link to="/starship" style={{color: 'white'}}>Starship</Link>
         </li>
         <li className="nav-item">
           <Link to="/pokemons" style={{color: 'white'}}>Planet</Link>
