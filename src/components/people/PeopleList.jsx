@@ -20,7 +20,7 @@ const PeopleList = ({peopleInfo, error, loading}) => {
 		}
 
 		return (
-			<div className="row">	
+			<div className="row" style={{marginLeft:"5rem"}}>	
 				{peopleInfo.map(person => {
 					return(
 						<PeopleItem
