@@ -11,7 +11,7 @@ export default () => {
           Google - Star Wars 
         </Link>
         <li className="nav-item">
-          <Link to="/pokemons" style={{color: 'white'}}>People</Link>
+          <Link to="/people" style={{color: 'white'}}>People</Link>
         </li>
         <li className="nav-item">
           <Link to="/pokemons" style={{color: 'white'}}>Starship</Link>
